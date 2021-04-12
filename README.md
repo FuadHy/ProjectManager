@@ -1,4 +1,4 @@
-## 75 lines of code to manage and quiclky start your projects
+## 80 lines of code to manage and quiclky start your projects
 ### Platform: Windows
 
 `git clone https://github.com/FuadHy/ProjectManager`
